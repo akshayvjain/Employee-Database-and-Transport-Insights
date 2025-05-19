@@ -1,4 +1,3 @@
-# SQL_Basic
 # Employee Database & Transport Insights - Basic SQL Project
 
 This beginner SQL project manages employee data for Mumbai-based teams. It includes employee IDs, names, teams, and modes of transport.
